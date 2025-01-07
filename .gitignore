@@ -1,0 +1,7 @@
+dist
+dist-*
+.ghc.*
+result
+result-*
+.stack-work/
+stack*.yaml.lock

@@ -1,0 +1,9 @@
+resolver: nightly-2024-10-21
+
+packages:
+- chell
+- chell-hunit
+- chell-quickcheck
+
+extra-deps:
+- patience-0.3

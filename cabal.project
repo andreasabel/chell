@@ -1,0 +1,3 @@
+packages: chell, chell-hunit, chell-quickcheck
+
+flags: +color-output
